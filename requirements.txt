@@ -1,0 +1,7 @@
+numpy
+pandas
+kafka-python
+time
+json
+boto3
+s3fs
